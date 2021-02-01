@@ -8,4 +8,6 @@
 3. [Постер в формате jpg](poster.jpg).
 4. [Презентация в формате pdf](presentation.pdf).
 
+По данной ссылке можно перейти на гугл диск, где находится видеопрезентация и остальные файлы из этой папки: https://drive.google.com/drive/u/0/folders/1uNzS-ZNZVy_SovmwQRBvX7luyTnhURQ6 
+
 ![Постер](poster.jpg)
