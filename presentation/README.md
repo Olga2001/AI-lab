@@ -7,4 +7,4 @@
 3. [Постер в формате jpg](poster.jpg).
 4. [Презентация в формате pdf](presentation.pdf).
 
-![Постер](poster.JPG)
+![Постер](poster.jpg)
